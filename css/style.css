@@ -1,0 +1,13 @@
+.back-nav > div > ul > li > a {
+    color: #ffffff;
+}
+
+nav > div > a#texto_titulo {
+    color: #ffffff;
+}
+
+.back-nav {
+    background-color: #000000;
+    color: #ffffff;
+}
+
